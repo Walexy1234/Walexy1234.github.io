@@ -2,7 +2,7 @@
   <!-- Logo -->
   <div class="logo">
     <a href="#">
-      <img src="logo.png" alt="Website Logo">
+      <img src="" alt="logo1file[1].jpg" alt="Website Logo">
     </a>
   </div>
   
